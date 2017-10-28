@@ -16,3 +16,6 @@ add_lunch_combo gemini-eng
 add_lunch_combo z2_plus-userdebug
 add_lunch_combo z2_plus-user
 add_lunch_combo z2_plus-eng
+add_lunch_combo santoni-userdebug
+add_lunch_combo santoni-user
+add_lunch_combo santoni-eng
